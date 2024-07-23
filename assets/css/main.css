@@ -3454,8 +3454,6 @@ input, select, textarea {
 		background-color: #272833;
 		background-image: url("../../images/IMG_3641.png");
 		background-position: center center;
-		top: 50%;
-		bottom: 100%;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
 		min-height: 100vh;
