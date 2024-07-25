@@ -2525,8 +2525,7 @@ input, select, textarea {
 			height: 100%;
 			width: 100%;
 			object-fit: cover;
-		
-			opacity: .7;
+
 		}
 
 		.video.fit {
