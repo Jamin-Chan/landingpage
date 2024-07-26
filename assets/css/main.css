@@ -3710,8 +3710,17 @@ input, select, textarea {
 
 			.spotlight {
 				background-attachment: scroll;
+				
+			}
+
+			.spotlight.style1{
 				height: auto;
 			}
+
+			.spotlight.style3{
+				height: auto;
+			}
+
 
 				.spotlight .image.main {
 					display: block;
